@@ -1,0 +1,26 @@
+{
+  "name": "curl-logger",
+  "version": "1.0.0",
+  "description": "curl requests are recorded by the server in order to replicate requests that might be problematic.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/parmeet10/curl-logger.git"
+  },
+  "keywords": [
+    "express",
+    "curl"
+  ],
+  "author": "Parmeet Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parmeet10/curl-logger/issues"
+  },
+  "homepage": "https://github.com/parmeet10/curl-logger#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
