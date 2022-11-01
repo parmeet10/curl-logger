@@ -26,4 +26,4 @@ app.use(express.json());
 app.use(new Curl({createFile:true}).logcurl); // new class instance with createFile flag
 ```
 now, observe terminal and your directory if provided with createFile option 
-![Alt text](https://imgur.com/a/f4Zh7eG.png "curl")
+![Alt text](https://imgur.com/a/f4Zh7eG "curl")
